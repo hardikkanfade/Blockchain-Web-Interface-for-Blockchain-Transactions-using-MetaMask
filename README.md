@@ -69,9 +69,3 @@ Open `http://localhost:5173` in your browser.
 -   `src/components`: Reusable UI components.
 -   `src/utils`: Helper functions for Ethereum interactions.
 
-## 🛡️ License
-
-This project is licensed under the MIT License - see the `ProductRegistry.sol` header for details.
-
----
-Built with ❤️ for TY Blockchain Assignment.
